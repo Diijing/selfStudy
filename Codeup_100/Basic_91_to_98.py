@@ -17,3 +17,13 @@
 #     attend[b-1] += 1
 # for j in attend:
 #     print(j, end=' ')
+
+# 93번
+
+# n = int(input())
+# a = input().split()
+# a.reverse()
+# for i in a:
+#     print(i, end=' ')
+
+# 94번
